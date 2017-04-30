@@ -1,0 +1,9 @@
+D:\work\hacareem\HacreemProblemThree\Careem.Common\bin\Debug\Careem.Common.dll
+D:\work\hacareem\HacreemProblemThree\Careem.Common\bin\Debug\Careem.Common.pdb
+D:\work\hacareem\HacreemProblemThree\Careem.Common\bin\Debug\Newtonsoft.Json.dll
+D:\work\hacareem\HacreemProblemThree\Careem.Common\bin\Debug\RabbitMQ.Client.dll
+D:\work\hacareem\HacreemProblemThree\Careem.Common\bin\Debug\Newtonsoft.Json.xml
+D:\work\hacareem\HacreemProblemThree\Careem.Common\bin\Debug\RabbitMQ.Client.xml
+D:\work\hacareem\HacreemProblemThree\Careem.Common\obj\Debug\Careem.Common.dll
+D:\work\hacareem\HacreemProblemThree\Careem.Common\obj\Debug\Careem.Common.pdb
+D:\work\hacareem\HacreemProblemThree\Careem.Common\obj\Debug\Careem.Common.csprojResolveAssemblyReference.cache
